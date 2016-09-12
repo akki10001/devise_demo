@@ -5,9 +5,5 @@ class ApplicationController < ActionController::Base
   before_action :authenticate_user!
 
 
-def hi
-puts "changes buy chandra"
-
-end 
  
 end
